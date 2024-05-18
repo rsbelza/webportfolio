@@ -1,0 +1,52 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": " I specialize in creating responsive and user-friendly web interfaces using HTML, CSS, and JavaScript. I have experience with modern frameworks such as React, which allows me to build dynamic and interactive web applications."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "My back-end development skills include working with server-side technologies like Node.js and Express. I am proficient in building RESTful APIs, managing databases using NoSQL, and ensuring server-side logic is efficient and secure."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "I have a keen eye for design and a deep understanding of user experience principles. I enjoy creating intuitive and visually appealing designs using tools like Figma, ensuring that the end product is both functional and aesthetically pleasing."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "I am proficient in using Webflow to design and develop fully responsive websites. Webflow allows me to implement custom designs without writing extensive code, providing a seamless way to create professional-grade websites quickly and efficiently."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.jpg",
+      "title": "Volt Avenue Electronics",
+      "description": "An E-commerce React-based web application with API integration and responsive design, utilizing modern JavaScript techniques and DOM manipulation.",
+      "link": "http://zuitt-bootcamp-prod-364-6498-belza.s3-website.us-east-1.amazonaws.com/"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Volt Avenue Electronics - BackEnd API",
+      "description": "A robust API using MongoDB, Node.js, and Express.js for seamless integration with the front-end React components in the full-stack e-commerce website.",
+      "link": "https://github.com/rsbelza/Website_Backend"
+    }
+    ,
+    {
+      "id": "3",
+      "src": "./img/QR-Code.png",
+      "title": "QR Code Generator",
+      "description": "Using HTML, CSS, and JavaScript, this QR code generator uses an API for streamlined code generation.",
+      "link": "https://rsbelza.github.io/Simple-QR-Code-Generator/"
+    }
+  ]
+}
